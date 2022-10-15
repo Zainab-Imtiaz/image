@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(241, 194, 212);
+}
+  p{
+    text-align: center;
+    font size: 20px;
+  }
+  h1{
+    letter-spacing: 7px;
+    white-space: nowrap; 
+    /*border-width: 200px;
+    border: 2px solid #000000;*/
+  }
+
+  h1{
+    text-align: center;
+  }
